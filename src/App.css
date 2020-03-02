@@ -1,0 +1,15 @@
+body {
+  background: #F2F2F2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  height: 64px;
+  background: #4A90E2;
+  font-family: Material, Arial, Helvetica, sans-serif;
+}
+
+.header label {
+  color: #FFFFFF;
+}
+
